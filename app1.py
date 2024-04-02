@@ -1,0 +1,1 @@
+inp = inpt("enter:")
